@@ -1,5 +1,13 @@
 C:\SampleProject\RestaurantPOS\bin\Debug\net6.0\appsettings.Development.json
 C:\SampleProject\RestaurantPOS\bin\Debug\net6.0\appsettings.json
+C:\SampleProject\RestaurantPOS\bin\Debug\net6.0\frontend\package-lock.json
+C:\SampleProject\RestaurantPOS\bin\Debug\net6.0\frontend\package.json
+C:\SampleProject\RestaurantPOS\bin\Debug\net6.0\frontend\restaurant-pos\.eslintrc.json
+C:\SampleProject\RestaurantPOS\bin\Debug\net6.0\frontend\restaurant-pos\jsconfig.json
+C:\SampleProject\RestaurantPOS\bin\Debug\net6.0\frontend\restaurant-pos\package-lock.json
+C:\SampleProject\RestaurantPOS\bin\Debug\net6.0\frontend\restaurant-pos\package.json
+C:\SampleProject\RestaurantPOS\bin\Debug\net6.0\package-lock.json
+C:\SampleProject\RestaurantPOS\bin\Debug\net6.0\package.json
 C:\SampleProject\RestaurantPOS\bin\Debug\net6.0\RestaurantPOS.exe
 C:\SampleProject\RestaurantPOS\bin\Debug\net6.0\RestaurantPOS.deps.json
 C:\SampleProject\RestaurantPOS\bin\Debug\net6.0\RestaurantPOS.runtimeconfig.json
